@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace EdabitLibrary.Tasks
 {
-    public class SumOfTwoNumbers : EdabitTask
+    public class SumOfTwoNumbersTask : EdabitTask
     {
-        public SumOfTwoNumbers() 
+        public SumOfTwoNumbersTask() 
         {
             Name = "Return the Sum of Two Numbers";
             Description = "Create a function that takes two numbers as arguments and return their sum";

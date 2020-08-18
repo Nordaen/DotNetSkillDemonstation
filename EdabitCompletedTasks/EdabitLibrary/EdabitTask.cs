@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EdabitLibrary.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +8,7 @@ using static System.Console;
 
 namespace EdabitLibrary
 {
-    public abstract class EdabitTask
+    public abstract class EdabitTask : IEdabitTask
     {
         public string Name { get; set; }
 

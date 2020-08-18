@@ -42,8 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EdabitTask.cs" />
+    <Compile Include="Interfaces\IEdabitTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tasks\SumOfTwoNumbers.cs" />
+    <Compile Include="Tasks\MinutesIntoSecondsTask.cs" />
+    <Compile Include="Tasks\SumOfTwoNumbersTask.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

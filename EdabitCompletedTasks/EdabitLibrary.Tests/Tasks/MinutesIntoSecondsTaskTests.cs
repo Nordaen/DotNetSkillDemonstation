@@ -9,19 +9,18 @@ using System.Threading.Tasks;
 namespace EdabitLibrary.Tasks.Tests
 {
     [TestClass()]
-    public class SumOfTwoNumbersTests
+    public class MinutesIntoSecondsTaskTests
     {
         [TestMethod()]
-        public void SumTest()
+        public void MinuteIntoSecondsTest()
         {
-            int x = 10;
-            int y = 20;
-            int expected = 30;
-
-            var task = new SumOfTwoNumbers();
-            int actual = task.Sum(x, y);
+            var task = new MinutesIntoSecondsTask();
+            int x = 5;
+            int expected = 300;
+            int actual = task.ConvertMinutesToSeconds(x);
             Assert.AreEqual(actual, expected);
-            
+
+
         }
     }
 }
