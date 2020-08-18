@@ -1,0 +1,6 @@
+B:\sfm\DotNetSkillDemonstation\EdabitCompletedTasks\EdabitLibrary\bin\Debug\EdabitLibrary.dll
+B:\sfm\DotNetSkillDemonstation\EdabitCompletedTasks\EdabitLibrary\bin\Debug\EdabitLibrary.pdb
+B:\sfm\DotNetSkillDemonstation\EdabitCompletedTasks\EdabitLibrary\obj\Debug\EdabitLibrary.csprojAssemblyReference.cache
+B:\sfm\DotNetSkillDemonstation\EdabitCompletedTasks\EdabitLibrary\obj\Debug\EdabitLibrary.csproj.CoreCompileInputs.cache
+B:\sfm\DotNetSkillDemonstation\EdabitCompletedTasks\EdabitLibrary\obj\Debug\EdabitLibrary.dll
+B:\sfm\DotNetSkillDemonstation\EdabitCompletedTasks\EdabitLibrary\obj\Debug\EdabitLibrary.pdb
