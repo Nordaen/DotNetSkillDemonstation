@@ -16,9 +16,9 @@ namespace EdabitLibrary.Tasks.Tests
         {
             var task = new GetNumberOfAlpabet();
             string x = "hi";
-            string expected = "89";
+            string expected = "8 9";
             string actual = task.GetNumbersAlphabetFromString(x);
-            Assert.AreEqual(actual, expected);
+            Assert.AreEqual(expected, actual);
         }
     }
 }

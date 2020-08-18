@@ -26,16 +26,23 @@ namespace EdabitLibrary.Tasks
             {
                 if (ch.Equals(' '))
                 {
-                    sb.Append(" ");
-                    continue;
+                    sb.Append("/");
                 }
                
                 if (keyValuePairs.TryGetValue(ch, out int value))
                 {
                     sb.Append(value);
+                    sb.Append(" ");
                 }
 
 
+            }
+            
+            
+            char st = sb[sb.Length-1];
+            if (st ==' ')
+            {
+                sb.Remove(sb.Length - 1, 1);
             }
             return sb.ToString();
         }
