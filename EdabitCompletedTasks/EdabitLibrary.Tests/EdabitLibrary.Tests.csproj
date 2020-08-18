@@ -52,6 +52,7 @@
     <Compile Include="EdabitTaskTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tasks\CountBinaryIntegersTests.cs" />
+    <Compile Include="Tasks\GetNumberOfAlpabetTests.cs" />
     <Compile Include="Tasks\MinutesIntoSecondsTaskTests.cs" />
     <Compile Include="Tasks\SumOfTwoNumbersTaskTests.cs" />
   </ItemGroup>
