@@ -1,3 +1,5 @@
-
-EdabitCompletedTasks/EdabitLibrary/obj/Debug/EdabitLibrary.dll
-EdabitCompletedTasks/EdabitLibrary/obj/Debug/EdabitLibrary.dll
+EdabitCompletedTasks/EdabitLibrary.Tests/bin/*
+EdabitCompletedTasks/EdabitLibrary.Tests/obj/*
+EdabitCompletedTasks/EdabitLibrary/obj/*
+EdabitCompletedTasks/EdabitLibrary/bin/*
+EdabitCompletedTasks/EdabitLibrary.Tests/bin/Debug/EdabitLibrary.dll

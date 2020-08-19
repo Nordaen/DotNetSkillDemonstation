@@ -20,7 +20,7 @@ namespace EdabitLibrary.Tasks
         {
             string result = Convert.ToString(Convert.ToInt32(Number.ToString(), 10), 2);
             return  result.Where(x => x == '1').Count();
-
+            //comm
         }
     }
 }
