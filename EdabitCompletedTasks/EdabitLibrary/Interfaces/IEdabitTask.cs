@@ -8,6 +8,7 @@ namespace EdabitLibrary.Interfaces
 {
     interface IEdabitTask
     {
+        //two main functions for abstract class
         string GetStringDescribe();
         void DescribeConsole();
     }

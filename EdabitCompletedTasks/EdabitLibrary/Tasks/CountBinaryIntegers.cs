@@ -18,9 +18,11 @@ namespace EdabitLibrary.Tasks
 
         public int CountIntBinary(int Number)
         {
+            //format int from 10 system to binary
             string result = Convert.ToString(Convert.ToInt32(Number.ToString(), 10), 2);
+            //return with LINQ count of '1'
             return  result.Where(x => x == '1').Count();
-            //comm
+            
         }
     }
 }
