@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdabitLibrary", "EdabitLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdabitLibrary.Tests", "EdabitLibrary.Tests\EdabitLibrary.Tests.csproj", "{0484E247-1F43-4C89-9E70-984BBD8403D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{B671D14A-A5DC-40F4-95AA-C568F7EE018C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0484E247-1F43-4C89-9E70-984BBD8403D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0484E247-1F43-4C89-9E70-984BBD8403D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0484E247-1F43-4C89-9E70-984BBD8403D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B671D14A-A5DC-40F4-95AA-C568F7EE018C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B671D14A-A5DC-40F4-95AA-C568F7EE018C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B671D14A-A5DC-40F4-95AA-C568F7EE018C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B671D14A-A5DC-40F4-95AA-C568F7EE018C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
